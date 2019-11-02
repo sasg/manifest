@@ -33,7 +33,6 @@ Your sources have been sync'd successfully.
 
   <project path="src/third_party/bootengine"
            name="sasg/bootengine"
-           revision="sasg"
            groups="minilayout" />
 
   <project path="src/third_party/docker"
